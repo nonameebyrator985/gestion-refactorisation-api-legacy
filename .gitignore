@@ -1,3 +1,5 @@
+# Ce fichier .gitignore est utilisé pour ignorer les fichiers et répertoires qui ne doivent pas être suivis par Git
+
 # Ignorer les environnements virtuels
 venv/
 
