@@ -1,19 +1,19 @@
-# Ce fichier .gitignore est utilisé pour ignorer les fichiers et répertoires qui ne doivent pas être suivis par Git
+# This .gitignore file is used to ignore files and directories that should not be tracked by Git
 
-# Ignorer les environnements virtuels
+# Ignore virtual environments
 venv/
 
-# Ignorer les fichiers de cache Python
+# Ignore Python cache files
 __pycache__/
 *.pyc
 
-# Ignorer les dépendances de Node.js
+# Ignore Node.js dependencies
 node_modules/
 
-# Ignorer les fichiers de log
+# Ignore log files
 *.log
 
-# Ignorer les fichiers de configuration d'IDE
+# Ignore IDE configuration files
 .idea/
 *.sublime-workspace
 *.sublime-project
